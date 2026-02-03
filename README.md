@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m Vishal<br>👯 I’m looking to collaborate on open Source projects <br>🤝 I’m looking for help with my growth <br>🌱 I’m currently learning Mern stack<br>💬 Ask me about Technology<br>⚡ Fun fact wanna be jack of all trade
 
 
 # 💻 Tech Stack:
