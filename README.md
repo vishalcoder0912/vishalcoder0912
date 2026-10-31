@@ -194,7 +194,14 @@ MISSION STATUS: IN PROGRESS...
 <br/><br/>
 
 ### `STILL LEARNING. STILL BUILDING. ALWAYS EVOLVING.`
+<div align="center">
 
+<img
+  width="95%"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=vishalcoder0912&theme=dark&background=020805&border=00FF66&stroke=00FF66&ring=39FF75&fire=00FF66&currStreakNum=39FF75&sideNums=39FF75&currStreakLabel=39FF75&sideLabels=39FF75&dates=8ECCA1&hide_border=true"
+/>
+
+</div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF66,50:063D19,100:020805&height=120&section=footer" width="100%"/>
 
 </div>
