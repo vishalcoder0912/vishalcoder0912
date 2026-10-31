@@ -1,129 +1,200 @@
+
+<!-- MATRIX DEVELOPER PROFILE -->
+
 <div align="center">
 
-<!-- Replace this banner URL with a custom SVG in your repository if desired. -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0B1020,50:312E81,100:0891B2&text=VishalXTech&fontColor=FFFFFF&fontSize=58&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20AI%20Engineering&descAlignY=68&descSize=16" alt="VishalXTech — Full-Stack Developer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020805,50:063D19,100:00FF66&height=220&section=header&text=VISHALXTECH&fontSize=65&fontColor=39FF75&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%20ENGINEERING&descAlignY=58&descSize=16&animation=twinkling" width="100%" />
 
-Build with curiosity. Ship with purpose. Learn in public.
-<p>
-  <a href="https://github.com/vishalcoder0912?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub projects" />
-  </a>
-  <a href="https://github.com/vishalcoder0912?tab=stars">
-    <img src="https://img.shields.io/badge/Projects%20I've%20Starred-312E81?style=for-the-badge&logo=github&logoColor=white" alt="Projects I've starred" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=900&color=39FF75&center=true&vCenter=true&width=700&lines=Initializing+Developer+Environment...;01001000+01000101+01001100+01001100+01001111;Building+Full-Stack+Applications;Exploring+AI+%26+Intelligent+Systems;Turning+Ideas+Into+Working+Software;Build.+Break.+Debug.+Deploy." />
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-020805?style=for-the-badge&logo=github&logoColor=39FF75)](https://github.com/vishalcoder0912)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-020805?style=for-the-badge&logo=linkedin&logoColor=39FF75)](YOUR_LINKEDIN_URL)
+[![Profile Views](https://komarev.com/ghpvc/?username=vishalcoder0912&style=for-the-badge&color=00AA44&label=PROFILE+VIEWS)](https://github.com/vishalcoder0912)
 
 </div>
 
-👋 About Me
-I'm Vishal, a developer who enjoys learning by building, exploring new technologies, and turning ideas into practical software.
-- 🌱 Currently learning: MERN stack and full-stack engineering.
-- 🛠️ Interested in: Web applications, developer tools, AI-powered projects, and deployment.
-- 🤝 Open to: Open-source contributions, collaborative projects, and learning from other developers.
-- 💬 Ask me about: Technology, web development, JavaScript, React, and getting started with projects.
-- ⚡ My mindset: Curious enough to explore broadly, focused enough to keep building.
-My goal is to become a versatile engineer by understanding how software is built, tested, secured, and deployed.
+---
 
-🧭 What I'm Working Toward
-- Building and improving end-to-end web applications.
-- Strengthening my JavaScript, React, Node.js, and database fundamentals.
-- Learning reliable deployment and software engineering practices.
-- Exploring AI engineering and practical AI-powered applications.
-- Contributing to open source and sharing what I learn.
-🚀 Featured Repositories
-These are starting points from my public GitHub profile. Check each repository for its current implementation, documentation, and status.
+## `> WHO_AM_I.exe`
+
+```bash
+$ whoami
+
+Vishal Kumar
+Full-Stack Developer | AI Enthusiast
+
+$ cat developer_profile.json
+```
+
+```json
+{
+  "name": "Vishal Kumar",
+  "username": "VishalXTech",
+  "role": "Full-Stack Developer",
+  "currently_learning": [
+    "MERN Stack",
+    "AI Engineering",
+    "Advanced Backend Development",
+    "System Design"
+  ],
+  "interests": [
+    "Web Applications",
+    "Artificial Intelligence",
+    "Developer Tools",
+    "Cloud & Deployment",
+    "Open Source"
+  ],
+  "mindset": "Build with curiosity. Ship with purpose.",
+  "status": "Always building something."
+}
+```
+
+---
+
+## `> TECH_STACK.sh`
+
+<div align="center">
+
+### LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,html,css&theme=dark" />
+
+### FRONTEND DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,threejs,gsap&theme=dark" />
+
+### BACKEND & DATABASE
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase&theme=dark" />
+
+### TOOLS & ENVIRONMENT
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,postman,figma&theme=dark" />
+
+</div>
+
+---
+
+## `> ACTIVE_PROJECTS/`
+
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/vishalcoder0912/ai-careeerveda">AI CareerVeda</a></h3>
-      A career-focused project to explore and review. Visit the repository for the current feature set and implementation details.
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/vishalcoder0912/placement-portal">Placement Portal</a></h3>
-      A placement-related application. Explore the source and README for its verified functionality and technology choices.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/vishalcoder0912/career-veda-testhub">CareerVeda TestHub</a></h3>
-      A project in the CareerVeda ecosystem. See the repository for its current scope and implementation.
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/vishalcoder0912/pixel-perfect-replica">Pixel Perfect Replica</a></h3>
-      A UI-focused repository to explore frontend implementation and interface recreation.
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+
+### AI CareerVeda
+
+AI-powered career-focused application.
+
+[ ACCESS REPOSITORY →](https://github.com/vishalcoder0912/ai-careeerveda)
+
+</td>
+<td width="50%">
+
+### Placement Portal
+
+Placement management and recruitment-focused application.
+
+[ ACCESS REPOSITORY →](https://github.com/vishalcoder0912/placement-portal)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### CareerVeda TestHub
+
+A project in the CareerVeda ecosystem.
+
+[ ACCESS REPOSITORY →](https://github.com/vishalcoder0912/career-veda-testhub)
+
+</td>
+<td width="50%">
+
+### Pixel Perfect Replica
+
+Frontend development and UI recreation.
+
+[ ACCESS REPOSITORY →](https://github.com/vishalcoder0912/pixel-perfect-replica)
+
+</td>
+</tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/vishalcoder0912?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" />
-  </a>
-</p>
+---
 
-💻 Tech Stack
-Languages
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222222" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-</p>
+## `> GITHUB_ANALYTICS.exe`
 
-Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" alt="React Router" />
-</p>
-
-Backend & Data
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=nodemon&logoColor=222222" alt="Nodemon" />
-</p>
-
-Tools & Workflow
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat-square&logo=windowsterminal&logoColor=white" alt="Windows Terminal" />
-</p>
-
-This list reflects technologies associated with my profile and projects; proficiency varies, and I'm continuing to learn.
-📊 GitHub Analytics
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vishalcoder0912&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalcoder0912&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages on public repositories" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vishalcoder0912&show_icons=true&hide_border=true&bg_color=020805&title_color=39FF75&icon_color=00FF66&text_color=B5FFCA&ring_color=39FF75" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalcoder0912&layout=compact&hide_border=true&bg_color=020805&title_color=39FF75&text_color=B5FFCA" />
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vishalcoder0912&bg_color=020805&color=39FF75&line=00FF66&point=B5FFCA&area=true&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalcoder0912&background=020805&ring=39FF75&fire=00FF66&currStreakLabel=39FF75&sideLabels=B5FFCA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8ECCA1&hide_border=true" />
+
 </div>
 
+---
+
+## `> CONTRIBUTION_MATRIX/`
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=vishalcoder0912&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="70%" />
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
 </div>
 
-<details>
-  <summary>🏆 GitHub profile trophies</summary>
-  <br />
-  <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=vishalcoder0912&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub profile trophies" width="100%" />
-  </div>
-</details>
+---
 
-<sub>Statistics and streaks are provided by third-party services and may be delayed, incomplete, or temporarily unavailable. Language charts reflect repository code, not necessarily skill level.</sub>
-🌍 Open Source & Collaboration
-I’m interested in contributing to projects where I can learn, solve real problems, and work with developers who care about maintainable software.
+## `> ACHIEVEMENTS.log`
 
-If you're building something useful, feel free to explore my repositories or connect through GitHub.
-📫 Connect
 <div align="center">
-  <a href="https://github.com/vishalcoder0912">
-    <img src="https://img.shields.io/badge/GitHub-vishalcoder0912-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
+
+<img src="https://github-profile-trophy.vercel.app/?username=vishalcoder0912&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" />
+
 </div>
 
+---
+
+## `> CURRENT_MISSION`
+
+```text
+[01] Building end-to-end web applications
+[02] Mastering React and Node.js
+[03] Exploring AI engineering and intelligent agents
+[04] Strengthening backend architecture and security
+[05] Learning cloud infrastructure and deployment
+[06] Contributing to open-source projects
+
+MISSION STATUS: IN PROGRESS...
+```
+
+---
+
+## `> CONNECT_TO_VISHAL`
+
 <div align="center">
-  <i>Still learning. Still building. Always curious.</i>
+
+<a href="https://github.com/vishalcoder0912">
+<img src="https://img.shields.io/badge/GITHUB-020805?style=for-the-badge&logo=github&logoColor=39FF75"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LINKEDIN-020805?style=for-the-badge&logo=linkedin&logoColor=39FF75"/>
+</a>
+
+<br/><br/>
+
+### `STILL LEARNING. STILL BUILDING. ALWAYS EVOLVING.`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF66,50:063D19,100:020805&height=120&section=footer" width="100%"/>
+
 </div>
